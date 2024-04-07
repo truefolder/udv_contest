@@ -1,7 +1,5 @@
 using Microsoft.OpenApi.Models;
 using UssJuniorTest;
-using UssJuniorTest.Controllers;
-using UssJuniorTest.Infrastructure.Store;
 
 var builder = WebApplication.CreateBuilder(args);
 
