@@ -1,4 +1,5 @@
-﻿using UssJuniorTest.Infrastructure.Repositories;
+﻿using UssJuniorTest.Controllers;
+using UssJuniorTest.Infrastructure.Repositories;
 using UssJuniorTest.Infrastructure.Store;
 
 namespace UssJuniorTest;
